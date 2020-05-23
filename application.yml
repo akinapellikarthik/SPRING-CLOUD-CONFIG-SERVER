@@ -1,0 +1,4 @@
+my:
+  greeting:Hello World from Spring Cloud Config
+    list:
+         values: One, Two, Three, Four, Five
