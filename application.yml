@@ -2,6 +2,6 @@ my:
   app:
     desc: Welcome to ${my.app.name}
     name: Karthik Spring Boot App
-  greetings: Hello World from local yml file
+  greetings: Hello World from GIT HUB yml file
 server:
   port: 8969
